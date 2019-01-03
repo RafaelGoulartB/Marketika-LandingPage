@@ -1,0 +1,34 @@
+.benefits {
+  display: flex;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+}
+.benefits div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.benefits div img {
+  width: 50px;
+  height: 50px;
+}
+
+.benefits div h2 {
+  color: #414141;
+  font-weight: bolder;
+  font-size: 16px;
+  margin-top: 1em;
+  margin-bottom: 0.75em;
+}
+
+.benefits div p {
+  color: #6C6C6C;
+  font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 300;
+  width: 90%;
+  text-align: center;
+}
