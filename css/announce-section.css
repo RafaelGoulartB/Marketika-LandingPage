@@ -1,0 +1,48 @@
+.announce-video {
+  display: flex;
+  width: 75%;
+  margin: 5em auto;
+  color: #414141;
+}
+.box-text {
+  width: 80%;
+  margin-right: auto; 
+}
+.texts .title {
+  font-weight: bolder;
+  font-size: 28px;
+  line-height: 1.25em;
+}
+
+.box-text .sub-title {
+  font-weight: bolder;
+  font-size: 16px;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
+}
+
+.box-text p {
+  color: #6C6C6C;
+  font-size: 14px;
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
+/* Video */
+.box-video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-video .video-thumbnail {
+  border-radius: 8px;
+  height: 80%;
+  filter: brightness(.6);
+}
+.box-video .play {
+  position: absolute;
+
+  width: 80px;
+  height: 80px;
+  z-index: 2;
+}
