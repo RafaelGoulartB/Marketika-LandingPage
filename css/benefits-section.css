@@ -2,8 +2,7 @@
   display: flex;
   width: 75%;
   justify-content: space-between;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 5em auto;
 }
 .benefits div {
   display: flex;
@@ -27,7 +26,7 @@
 .benefits div p {
   color: #6C6C6C;
   font-size: 14px;
-  line-height: 1.5em;
+  line-height: 1.75em;
   font-weight: 300;
   width: 90%;
   text-align: center;
