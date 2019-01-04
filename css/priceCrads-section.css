@@ -1,0 +1,101 @@
+.price-cards {
+    text-align: center;
+}
+
+/* Texts */
+.price-cards .text h2 {
+    color: #414141;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 2.5em;
+}
+.price-cards .text p {
+    color: #6c6c6c;
+    width: 40%;
+    margin: auto;
+    line-height: 1.5em;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+/* Cards */
+.price-cards .cards {
+    display: flex;
+    margin-top: 5em;
+    justify-content: center;
+
+    margin-bottom: 10em;
+}
+.price-cards .cards div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 25%;
+    height: 400px;
+}
+.price-cards .cards .card-name {
+    text-transform: uppercase;
+    color: #414141;
+    font-weight: bold;
+}
+.price-cards .cards .free {
+    background-color: #f6fafd;
+    margin-right: 3em;
+}
+.price-cards .cards .price {
+    color: #414141;
+    font-weight: bold;
+    font-size: 14px;
+}
+.price-cards .cards .price .value {
+    color: #fe4fa7;
+    font-size: 45pt;
+    font-weight: bold;
+}
+.price-cards .cards .description {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    line-height: 1.25em;
+    color: #6c6c6c;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.75em;
+}
+
+
+.price-cards .cards button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 140px;
+    height: 44px;
+    border-radius: 4px;
+    padding-left: 1em;
+}
+/* Free Button */
+.price-cards .cards .free button {
+    color: #ffffff;
+    border: none;
+    background-image: linear-gradient(to right, #FE985B, #FE4FA7);   
+}
+
+.price-cards .cards .free button:hover {
+    color: #000000;
+    background-color: transparent;
+    box-shadow: none;
+    border: 1px solid #979797;
+    background-image: none;
+}
+
+/* Premium Button */
+.price-cards .cards .premium button {    
+    color: #000000;
+    background-color: transparent;
+    box-shadow: none;
+    border: 1px solid #979797;
+}
+.price-cards .cards .premium button:hover {    
+    color: #ffffff;
+    border: none;
+    background-image: linear-gradient(to right, #FE985B, #FE4FA7);   
+}
