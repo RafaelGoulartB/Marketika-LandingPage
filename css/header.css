@@ -9,7 +9,7 @@ header {
 
 }
 
-.logo {
+header .logo {
   color: white;
   font-size: 22px;
   font-weight: bold;
@@ -30,7 +30,7 @@ header {
   align-items: center;
 }
 
-.main-title {
+header .main-title {
   color: #ffffff;
   font-size: 47px;
   font-weight: bold;
