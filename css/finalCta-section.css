@@ -1,0 +1,31 @@
+.final-cta {
+    background-image: linear-gradient(to right, #FE985B, #FE4FA7);
+    text-align: center;
+    color: #ffffff;
+    padding-top: 3.5em;
+    padding-bottom: 3em;
+}
+.final-cta .title {
+    font-weight: bolder;
+    font-size: 44px;
+    line-height: 1.75em;
+}
+.final-cta .describe {
+    margin: 1em auto;
+    width: 32%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;
+}
+
+.final-cta button {
+    margin-top: 3em;
+    margin-bottom: 3.5em;
+    background-color: #ffffff;
+    border: none;
+    box-shadow: none;
+    width: 160px;
+    height: 44px;
+    border-radius: 4px;
+    font-size: 15px;
+}
