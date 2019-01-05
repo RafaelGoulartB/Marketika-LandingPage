@@ -40,7 +40,7 @@
 }
 .price-cards .cards .free {
     background-color: #f6fafd;
-    margin-right: 3em;
+    margin-right: 1em;
 }
 .price-cards .cards .price {
     color: #414141;
@@ -70,6 +70,7 @@
     width: 140px;
     height: 44px;
     border-radius: 4px;
+    margin-bottom: 3em;
 }
 /* Free Button */
 .price-cards .cards .free button {
