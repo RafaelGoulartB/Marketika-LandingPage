@@ -1,3 +1,7 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 .line-div {
   width: 85%;
   height: 1px;
