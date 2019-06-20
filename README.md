@@ -1,12 +1,6 @@
-<h1 align="center">Welcome to Marketika-LandingPage 👋</h1>
+<h1 align="center">Marketika LandingPage</h1>
 <p>
 </p>
-
-## Install
-
-```sh
-npm install
-```
 
 ## Show your support
 
