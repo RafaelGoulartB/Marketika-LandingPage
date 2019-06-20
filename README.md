@@ -1,5 +1,16 @@
-# Marketika-LandingPage
-Landing Page Marketika
+<h1 align="center">Welcome to Marketika-LandingPage 👋</h1>
+<p>
+</p>
 
+## Install
 
-Design feito por: https://www.uplabs.com/didarahmed26_1
+```sh
+npm install
+```
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
